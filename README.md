@@ -1,5 +1,4 @@
 <h1 align= center> Oscar Landa</h1>
-<h2 align= center> Loc: Bay Area</h2>
 
                                 
 
