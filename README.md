@@ -1,17 +1,7 @@
-- 👋 Hi, I’m @osc650
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align= center> Oscar Landa</h1>
+<h2 align= center> Loc: Bay Area</h2>
 
-<!---
-osc650/osc650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
----
-
+                                
 
 ## 📖 Table of Contents
 
@@ -26,15 +16,17 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## Projectos
-
-Projectos desarollados en espanol.
-
-
 ---
 
-## ✨ Tech
-- 💞️ Astro, Python
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##  Front-End
+- HTML, CSS
+- Astro
+
+ ##  Full Stack
+- Pyhon
+
+
+
+
+
+
